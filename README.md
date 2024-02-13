@@ -1,5 +1,5 @@
 # Laravel-Ajax-Student-Management
-Student Management System Using Laravel Ajax &amp; Sweet Alert
+Student Management System Using Laravel Jetstream & Ajax &amp; Sweet Alert
 
 ![0](https://github.com/MrTineth/Laravel-Ajax-Student-Management/assets/106744622/56b00b99-5e67-4f68-b0b8-4958847ec7c9)
 
